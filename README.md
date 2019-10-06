@@ -2,9 +2,10 @@
 Python script to convert easy chair conference data to ACM processing metadata requirements
 
 EasyChair is a conference management system  https://easychair.org with >21millon accesses per month
+
 ACM Association for Computing Machinery https://www.acm.org is a 72 years old scientific organization with over 100,000 members and a major customer of easychair.
 
-This python script is for conference program chairs who want to automatically converts author, sumbission data into the following ACM publishing process' metadata format,
+This python script is for conference program chairs who want to automatically convert author, sumbission data into the following ACM publishing process' metadata format,
 
 content type - full paper, short paper, or abstract
 title
