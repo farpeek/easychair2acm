@@ -8,17 +8,20 @@ ACM Association for Computing Machinery https://www.acm.org is a 72 years old sc
 This python script is for conference program chairs who want to automatically convert author, sumbission data into the following ACM publishing process' metadata format,
 
 content type - full paper, short paper, or abstract
-title
-author / affiliation list (see below)
-email list (see below)
-submission ID
 
-Authors and affiliations are separated by semi-colons, with affiliations in parentheses:
+>>>>>>>>>>>>>>>>
+title
+
+author / affiliation list. Authors and affiliations are separated by semi-colons, with affiliations in parentheses:
   Alan Smithie (University of Lanark);Hamilton Armstrong (Woodpark University)
-E-mail addresses are in the same order as authors and separated by semi-colons:
+
+email list. E-mail addresses are in the same order as authors and separated by semi-colons:
   a.smithie@gmail.com;h.armstrong@outlook.com
 
-Without having to pour through all authors and submission data.
+submission ID
+<<<<<<<<<<<<<<<<
+
+Without having to pour through all author and submission data manually.
 
 Steps:
 
