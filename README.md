@@ -23,19 +23,26 @@ submission ID
 
 Without having to pour through all author and submission data manually.
 
+
 Steps:
 
 1 - In chair role, click administration tab, then conference data download the xls data file
+
 2 - In excel or other, export the Submissions sheet with accepted articles to accepted.csv
+
 3 - In excel or other, export the Authors sheet to authors.csv
+
 4 - Run easychair2acm.py > myconference.acm.metadata
 
+
 Author name matching automates processing the combined author list sentence, into separated metadata per author, crosschecked with the author database.
+
 
 Friends of easychair2acm
 
 https://github.com/alexorso/easychairscripts
 https://github.com/nblomqvist/easy2acl
+
 
 MIT License
 
